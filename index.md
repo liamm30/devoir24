@@ -31,16 +31,12 @@
 ### Centre d’intérêt
  
 
-
- 
-
 | sport | loisir |livre préféré |film préféré|
- 
-
 |--|--|--|--|
+|  basketball| jeu vidéo |  _La promesse de l’aube_, de romain gary |minority report |
  
 
-|  basketball| jeu vidéo |  _La promesse de l’aube_, de romain gary |minority report |
+
  
 
 ###  Diplôme
