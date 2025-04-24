@@ -10,7 +10,7 @@
 étudiant en lettre mineure humanité numérique à la [sorbonne nouvelle](https://www.sorbonne-nouvelle.fr/)
  
 
-### Établissement scolaire
+### Établissements scolaires
  
 
 * école Charles Perrault
@@ -28,7 +28,7 @@
  
  
 
-### Centre d’intérêt
+### Centres d’intérêts
  
 
 | sport | loisir |livre préféré |film préféré|
@@ -39,7 +39,7 @@
 
  
 
-###  Diplôme
+###  Diplômes
  
 
 1. brevet des collèges
